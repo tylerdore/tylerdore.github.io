@@ -29,3 +29,8 @@ Credits:
 		jQuery (jquery.com)
 		Misc. Sass functions (@HugoGiraudel)
 		Skel (skel.io)
+---
+
+## Repository note: private business operations split
+
+A dedicated split point exists at `business-ops/` for **Green Infrastructure Services** business operations. Use `scripts/split-business-ops.sh` to push that folder to a separate private repository remote (`gis-ops`).
